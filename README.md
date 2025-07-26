@@ -36,4 +36,4 @@ See [LICENSE](./LICENSE) for details.
 
 Code portions were borrowed from [frutbunn](https://www.shadertoy.com/user/frutbunn) and other open source shader projects.
 
----# m-crt
+---
