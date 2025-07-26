@@ -1,0 +1,4 @@
+shaders = 1
+
+shader0 = shaders/m-crt.retroarch.slang
+filter_linear0 = false
